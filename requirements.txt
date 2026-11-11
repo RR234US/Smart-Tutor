@@ -1,0 +1,6 @@
+streamlit>=1.39.0
+chromadb>=0.5.15
+sentence-transformers>=3.2.1
+transformers>=4.45.2
+torch>=2.4.0
+accelerate>=1.0.1
